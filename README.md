@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Username00911
 - 👀 I’m interested in JavaScript, CSharp, Python, Batch, CPP, lua
 - 🌱 I’m currently learning OSINT
-- 📫 You can reach me on discord : Username SU#1337
+- 📫 You can reach me on discord : Username'SU#1337
+- 📫 Backup account : Kastro'KS#1201
